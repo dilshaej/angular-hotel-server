@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "120",
+      "name": "Grand",
+      "city": "Tokyo",
+      "stars": "5"
+    },
+    {
+      "id": "134",
+      "name": "ITC Narmada",
+      "city": "Ahmedabad",
+      "stars": "4"
+    },
+    {
+      "id": "456",
+      "name": "Grand Chola",
+      "city": "Chennai",
+      "stars": "5"
+    },
+    {
+      "id": "678",
+      "name": "Vogue Montreal",
+      "city": "Zurich",
+      "stars": "5"
+    },
+    {
+      "id": "459",
+      "name": "Ballegio",
+      "city": "Las Vegas",
+      "stars": "5"
+    },
+    {
+      "id": "555",
+      "name": "Carlise Bay",
+      "city": "St Marys",
+      "stars": "3"
+    },
+    {
+      "id": "333",
+      "name": "Milos",
+      "city": "Athens",
+      "stars": "2"
+    },
+    {
+      "id": "365",
+      "name": "Four Seasons",
+      "city": "Nashville",
+      "stars": "1"
+    }
+  ]
+}
